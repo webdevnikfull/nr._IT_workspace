@@ -7,7 +7,7 @@ Trzy połączone narzędzia są dostępne w jednej aplikacji:
 - `#monitor` — Service Monitor: przykładowe obserwacje i ręczne przełączanie stanów usług.
 - `#assets` — Asset Manager: rejestr sprzętu, zmiana stanu urządzeń i etykiety QR.
 
-To interaktywne demo. Zmiany są zapisywane lokalnie w przeglądarce. Stan usług możesz przełączać między „Działa”, „Niedostępne” i „Niepotwierdzone”; stan urządzeń między „Aktywne”, „Serwis” i „Wycofane”. Dane monitoringu są przykładowe, a nie wynikiem rzeczywistego sprawdzenia sieci.
+To interaktywne demo. Zmiany są zapisywane lokalnie w przeglądarce. Stan usług możesz przełączać między „Działa”, „Niedostępne” i „Niepotwierdzone”; stan urządzeń między „Aktywne”, „Serwis” i „Wycofane”. Cztery karty nad listą urządzeń służą do filtrowania widoku według tych stanów; ponowne wybranie „Urządzenia” pokazuje wszystkie. Dane monitoringu są przykładowe, a nie wynikiem rzeczywistego sprawdzenia sieci.
 
 W górnym pasku wybierzesz jeden z siedmiu języków (PL, EN, DE, ES, FR, UK, RU) i motyw jasny lub ciemny. Oba ustawienia są zapisywane lokalnie. Reset danych demo jest dostępny w oknie przycisku logowania. Kody QR prowadzą do kart urządzeń; nowo dodane urządzenia demo istnieją tylko na urządzeniu, na którym je zapisano.
 
